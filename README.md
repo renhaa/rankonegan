@@ -22,15 +22,13 @@
 conda env create -f environment/rankone_env.yml
 ```
 
-## Usage
-
 
 ## Interactive demo
 Try our interactive demo [here](demo.ipynb)
 
 ![demo](docs/resources/gradio.png)
 
-# Acknowledgements
+# Acknowledgement
 
 This repository borrows code from the awesome work in 
 - [Third Time's the Charm? Image and Video Editing with StyleGAN3 (AIM Workshop ECCV 2022)](https://github.com/yuval-alaluf/stylegan3-editing)
