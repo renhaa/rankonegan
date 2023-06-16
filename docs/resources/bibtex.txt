@@ -1,0 +1,8 @@
+@misc{haas2022controllable,
+      title={Controllable GAN Synthesis Using Non-Rigid Structure-from-Motion}, 
+      author={René Haas and Stella Graßhof and Sami S. Brandt},
+      year={2022},
+      eprint={2211.07195},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

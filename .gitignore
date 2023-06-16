@@ -1,0 +1,4 @@
+*.pyc
+*.pkl
+*.pt
+*.pth

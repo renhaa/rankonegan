@@ -1,0 +1,36 @@
+name: rankone_env
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - pytorch 
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3
+  - pytorch-lightning
+  - nb_conda_kernels 
+  - ipykernel 
+  - ipywidgets
+  - tensorflow 
+  - dlib 
+  - tqdm 
+  - matplotlib 
+  - numpy 
+  - opencv 
+  - imutils
+  - scikit-learn
+  - seaborn
+  - easydict
+  - jupyter
+  - pip
+  - pip:
+    - mediapipe
+    - ninja
+    - tntorch
+    - roma
+    - functorch
+    - protobuf==3.20
+    - gdown
+    - wget
+    - gradio
